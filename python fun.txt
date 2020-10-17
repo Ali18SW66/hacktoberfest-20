@@ -14,7 +14,13 @@ print("its LITTT");
 print 'Hello' , 'World'
  main
 
-a=5;
-b=10;
-c=a+b;
-print(c);
+a=5
+b=10
+c=a+b
+print(c)
+
+
+x=2 
+y=5
+
+x,y=y,x
